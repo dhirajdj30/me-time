@@ -1,5 +1,8 @@
 # About Me - Chatgpt
 
+![DJ...](dj.png)
+
+
 ### My Prompt: 
 give me a that what peoples thinks about me like how my image is in peoples mind
 
