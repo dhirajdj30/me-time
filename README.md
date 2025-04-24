@@ -1,6 +1,6 @@
 # About Me - Chatgpt
 
-![DJ...](dj.png)
+![DJ...](/dj.png)
 
 
 ### My Prompt: 
